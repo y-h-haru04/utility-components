@@ -1,0 +1,28 @@
+.tableWrrapper {
+  overflow: scroll;
+}
+
+.table {
+  border-collapse: collapse;
+}
+
+table {
+  white-space: nowrap;
+  table-layout: fixed;
+}
+
+table {
+  th {
+    background-color: white;
+    z-index: 1;
+  }
+  td {
+    background-color: white;
+  }
+}
+
+table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}

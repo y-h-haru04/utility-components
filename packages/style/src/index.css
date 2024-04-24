@@ -1,0 +1,265 @@
+/* body {
+  @apply bg-gray-600
+  text-gray-200;
+}
+
+main {
+  @apply m-auto 
+  max-w-[1000px];
+}
+
+.header {
+  @apply p-md
+  h-12
+  shadow-lg
+  bg-gray-800;
+}
+
+.p-sm {
+  @apply px-2 py-1;
+}
+
+.p-md {
+  @apply px-4 py-2;
+}
+
+.p-lg {
+  @apply px-4 py-4;
+}
+
+.form-ring {
+  @apply focus:ring-2
+  ring-offset-2
+  ring-offset-gray-600;
+}
+
+.ring-primary {
+  @apply form-ring
+  ring-blue-400;
+}
+
+.ring-danger {
+  @apply form-ring
+  ring-red-400;
+}
+
+.form-input {
+  @apply rounded
+    outline-none
+    border
+    p-sm
+    ring-primary
+    h-8
+    text-gray-300
+    border-gray-400
+    bg-gray-500
+    focus:border-blue-400;
+}
+
+.form-checkbox {
+  @apply w-4
+  h-4
+  rounded
+  focus:ring-2
+text-blue-600
+  focus:ring-blue-500
+  dark:focus:ring-blue-600
+  dark:ring-offset-gray-800
+  bg-gray-100
+  border-gray-300
+  dark:bg-gray-700
+  dark:border-gray-600;
+}
+
+.card {
+  @apply rounded
+    border
+    shadow-md
+    border-gray-400;
+}
+.card-header {
+  @apply p-md border-b bg-gray-800 rounded-t w-full;
+}
+
+.btn {
+  @apply rounded
+    p-sm;
+}
+
+.btn:disabled {
+  @apply opacity-50
+  cursor-not-allowed
+  pointer-events-none;
+}
+
+.btn-primary {
+  @apply ring-primary
+  bg-blue-600
+  focus:bg-blue-700
+  hover:bg-blue-700;
+}
+
+.btn-danger {
+  @apply ring-danger
+  bg-red-600
+  focus:bg-red-700
+  hover:bg-red-700;
+}
+
+.btn-secondary {
+  @apply ring-primary
+  border
+  text-gray-400
+  bg-gray-800
+  border-gray-600;
+}
+
+table {
+  @apply table-auto
+  flex-1
+  rounded;
+}
+
+table thead {
+  @apply border-b
+  text-blue-400
+  border-blue-400
+  bg-gray-800;
+}
+
+table tbody {
+  @apply bg-gray-700;
+}
+
+table thead tr {
+}
+
+table tbody tr {
+  @apply border-b
+  border-gray-600
+  hover:bg-gray-600
+  cursor-pointer;
+}
+
+table thead tr th {
+  @apply font-bold
+  px-4
+  py-1;
+}
+
+table tbody tr td {
+  @apply text-center
+  px-4
+  py-2;
+}
+
+.table-wrapper {
+  @apply flex
+  py-4
+  rounded
+  border
+  bg-gray-800
+  border-gray-500;
+}
+
+.badge {
+  @apply rounded-full
+  w-16
+  m-auto
+  px-2
+  py-1
+  text-sm;
+}
+
+.badge-before-start {
+  @apply badge  bg-blue-600;
+}
+
+.badge-hold {
+  @apply badge bg-teal-600;
+}
+
+.badge-working {
+  @apply badge bg-yellow-600;
+}
+
+.badge-completed {
+  @apply badge bg-green-600;
+}
+
+.form-group {
+  @apply flex
+  flex-col;
+}
+
+.form-group .form-label {
+  @apply font-bold
+  mb-1;
+}
+
+.modal {
+  @apply fixed
+  overflow-hidden
+  right-0
+  left-0
+  top-0
+  z-40
+  justify-center
+  items-center
+  w-full 
+  h-[calc(100%-1rem)]
+  max-h-full;
+}
+
+.modal .modal-backdrop {
+  @apply absolute
+  z-40
+  top-0
+  bg-black
+  opacity-50
+  h-screen
+  w-screen
+  overflow-hidden;
+}
+
+.modal .modal-content {
+  @apply relative
+  rounded-lg
+  shadow
+  top-1/2
+  z-50
+  -translate-y-1/2
+  w-[700px]
+  m-auto
+  dark:bg-gray-700;
+}
+
+.modal .modal-header {
+  @apply flex
+  items-center
+  justify-between
+  p-4
+  border-b
+  rounded-t
+  dark:border-gray-600;
+}
+
+.modal .modal-title {
+  @apply text-xl
+  font-semibold;
+}
+
+.modal .modal-body {
+  @apply space-y-4
+  p-4;
+}
+
+.modal .modal-footer {
+  @apply flex
+  items-center
+  p-4
+  gap-2
+  border-t
+  rounded-b
+  border-gray-600;
+} */
