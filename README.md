@@ -6,7 +6,6 @@
 /
 ├───.vscode       // vscode settings
 ├───apps          // applications
-│ ├───api         // api server
 │ ├───app-react   // React version application
 │ ├───app-svelte  // Svelte version application
 │ └───app-vue     // Vue.js version application
@@ -31,4 +30,3 @@
    | app-react | http://localhost:3000 |
    | app-svelte | http://localhost:3001 |
    | app-vue | http://localhost:3002 |
-   | api | http://localhost:8000 |
